@@ -1,0 +1,17 @@
+{
+  "uuid": "5ef65d0e-6e29-4b82-a8d8-50f12fc752e2",
+  "description": "pending description",
+  "repl": {
+    "listen": "/tmp/socket-5ef65d0e-6e29-4b82-a8d8-50f12fc752e2"
+  },
+  "plugins": {
+    "objective_dev": {
+      "testDir": "test",
+      "testAppend": "_test",
+      "sourceDir": "lib",
+      "runAll": true,
+      "showTrace": false,
+      "filterTrace": false
+    }
+  }
+}
